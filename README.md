@@ -1,8 +1,8 @@
-# Peter's Family secret recipes
+# PS's Family secret recipes
 
-Set of recipes as given by my grandma
+Set of recipes as given by my grandma.
 
-+ * pizzas
-+   - [base](./pizzas/base.md)
-Sauses (TODO)
-reads (TODO)
+* Pizzas
+	- [base](./pizzas/base.md)
+* Sauces (TODO)
+* Spreads (TODO)
